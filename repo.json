@@ -1,0 +1,23 @@
+[
+  {
+    "Author": "ruunesu",
+    "Name": "Bye Bye Mercenary",
+    "InternalName": "ByeByeMercenary",
+    "AssemblyVersion": "0.1.0.0",
+    "Description": "Hides standard Party Finder listings whose comment matches user-defined patterns (plain text or regex). Useful for filtering out RMT/mercenary advertisements. Open the settings window with /bbm. Filtering is client-side only.",
+    "Punchline": "Hide Party Finder listings whose comments match your blacklist.",
+    "ApplicableVersion": "any",
+    "RepoUrl": "https://github.com/ruunesu/ByeByeMercenary",
+    "DalamudApiLevel": 15,
+    "DownloadLinkInstall": "https://github.com/ruunesu/ByeByeMercenary/releases/download/v0.1.0.0/latest.zip",
+    "DownloadLinkUpdate": "https://github.com/ruunesu/ByeByeMercenary/releases/download/v0.1.0.0/latest.zip",
+    "DownloadLinkTesting": "https://github.com/ruunesu/ByeByeMercenary/releases/download/v0.1.0.0/latest.zip",
+    "Tags": [
+      "party finder",
+      "filter",
+      "blacklist",
+      "utility"
+    ],
+    "IsTestingExclusive": false
+  }
+]

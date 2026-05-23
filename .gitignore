@@ -1,0 +1,9 @@
+.vs/
+obj/
+bin/
+*.user
+
+# Claude Code 用の開発コンテキスト（リポジトリには含めない）
+CLAUDE.md
+docs/requirements.md
+.claude/
